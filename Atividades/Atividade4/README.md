@@ -1,6 +1,7 @@
 | Questões |
 | :---: | 
 
+
 Com a evolução da tecnologia, diversos serviços de pedidos alimentícios estão presentes
 de maneira mais fácil e eficaz através de sites e aplicativos.
 
