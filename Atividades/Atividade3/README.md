@@ -1,6 +1,7 @@
 | Questões |
 | :---: | 
 
+
 A fim de representar empregados em uma firma, crie uma classe chamada Empregado
 que inclui as três informações a seguir como atributos:
 - Primeiro nome do funcionário;
